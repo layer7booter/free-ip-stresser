@@ -1,6 +1,6 @@
 # Secure Stressor V1 — Cinematic Demo 🚀
 
-**Secure Stressor V1 — Ultimate Fake IP Stresser & Booter (for Movies & Training) 🎬**  
+**Secure Stressor V1 — Ultimate IP Stresser & Booter (for educational purposes)**  
 Made by [rebirthstress.cc](https://rebirthstress.cc) 🌙
 
 ---
