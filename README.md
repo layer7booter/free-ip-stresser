@@ -6,7 +6,7 @@ Made by [rebirthstress.cc](https://rebirthstress.cc) 🌙
 ---
 
 ## 🚀 Introduction
-Say hello to **Rebirth Stressor X1** — a stylized, movie-prop style Python tool that **simulates** the appearance of an advanced stresser/booter.  
+Say hello to **Secure Stressor V1** — a stylized, movie-prop style Python tool that **simulates** the appearance of an advanced stresser/booter.  
 
 ⚠️ This repository is **100% non-functional** and intended only for:
 - Cinematic visuals (film/TV hacking scenes)  
